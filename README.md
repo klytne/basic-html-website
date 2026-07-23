@@ -6,11 +6,11 @@ You can find the challenge <a href="https://roadmap.sh/projects/basic-html-websi
 
 ### Requirements
 
-- [ ] Semantically correct HTML structure.
-- [ ] Multiple pages with a navigation bar.
-- [ ] SEO meta tags in the head of each page.
-- [ ] The contact page should have a form with fields like name, email, message etc.
+- [x] Semantically correct HTML structure.
+- [x] Multiple pages with a navigation bar.
+- [x] SEO meta tags in the head of each page.
+- [x] The contact page should have a form with fields like name, email, message etc.
 
 ### Screenshots 
 
-<i>coming soon</i>
+<img src="./public/home-preview.png" alt="A preview of the home page" width="655" height="631">
